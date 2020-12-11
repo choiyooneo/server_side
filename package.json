@@ -1,0 +1,21 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choiyooneo/server_side.git"
+  },
+  "bugs": {
+    "url": "https://github.com/choiyooneo/server_side/issues"
+  },
+  "homepage": "https://github.com/choiyooneo/server_side#readme"
+}
